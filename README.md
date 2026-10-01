@@ -19,9 +19,9 @@
 &nbsp;Apart from technical interests, I like reading books,watching movies, playing Chess and openworld games.\
 &nbsp;Feel free to reach out to me for general consulting, or discussions \
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+### If my repository is helpful for you then  gave me STAR*
 
------
+<!-------
 ### 📫 &nbsp; How to reach me:
 
 
@@ -34,7 +34,7 @@
 -----  
 
 
-<!-- <h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+ <h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
 
 | Repo Name | URL | Tech Stack |
 |-----------|-----|------------|
