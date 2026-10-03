@@ -9,9 +9,8 @@
 </p>
 
 -----
-
-![Profile Views](https://komarev.com/ghpvc/?username=meow7781&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/heygaurav77?label=Followers&style=social)](https://github.com/meow7781)
+[![Profile Views](https://komarev.com/ghpvc/?username=meow7781&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/meow7781)
+[![GitHub Followers](https://img.shields.io/github/followers/meow7781?label=Followers&style=social)](https://github.com/meow7781)
 ### 👨🏻‍💻 &nbsp;About Me
 
 &nbsp;Hello everyone,I'm pursuing CS with data Science. I enjoy collaborating with people on works of similar interest.
